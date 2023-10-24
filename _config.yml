@@ -1,13 +1,14 @@
-title: L.Z.Edith | Film Editing Practice # name of the site
+title: L.Z.Edith / Film Editing Practice # name of the site
 author: Elzie Edith # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://lzedith.com # root address of the site
+email: l.z.edithor@gmail.com # email of site's author
+url: http://lzedith.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  Film Editing Practice
+description: A blog about film editing practice, including examples of movie and clip re-edits and informational posts
 
 permalink: /:slug.html
 
+logo: "preview.jpg"
+image: "preview.jpg"
 favicon: "lzfavicon.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
